@@ -2,7 +2,15 @@
   "name": "pics",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://askat08.github.io/picSearch",
+=======
+<<<<<<< HEAD
+  "homepage": "http://Askat08.github.io/picSearch",
+=======
+  "homepage": "https://askat08.github.io/picSearch",
+>>>>>>> added scripts and homepage
+>>>>>>> temp-br
   "dependencies": {
     "axios": "^0.19.0",
     "react": "^16.9.0",
